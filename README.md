@@ -6,4 +6,4 @@ It allows you to simulate the FHP-I, FHP-II or FHP-III model, simply setting up 
 
 Also, the code is well-structured and fully commented, so it's easy to modify it for your own purposes :D
 
-FHP-III implementation differs from the one given in the book by Wolf-Gladrow (but it gives nice results). 
+FHP-III implementation differs from the one given in the book by Wolf-Gladrow (but it gives correct results). 
